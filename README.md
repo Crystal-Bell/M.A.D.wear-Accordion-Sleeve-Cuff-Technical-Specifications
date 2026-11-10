@@ -1,5 +1,4 @@
-title: M.A.D.wear Accordion Sleeve & Cuff Technical Specifications
-repository: friction-reduction-for-global-cohesion
+
 
 title: M.A.D.wear Accordion Sleeve & Cuff Technical Specifications
 repository: friction-reduction-for-global-cohesion
